@@ -1,7 +1,8 @@
 const Name ="Chetan"
-const repoCount = 50;
-
-console.log(`Hello my name is ${Name} and my repo count is ${repoCount} `);   
+const repoCount = 50; 
+const oddNum = 57;
+ 
+console.log(`Hello  my name is ${Name} and my repo count is ${repoCount} `);   
 
 const gameName = new String("ChetanCB-youtube-com");
 
